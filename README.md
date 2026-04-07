@@ -1,4 +1,5 @@
-## Hi there 👋
+## Ezequiel Gallo 
+Desarrollador Fullstack
 
 <!--
 **ezegallo706/ezegallo706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
